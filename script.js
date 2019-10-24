@@ -102,3 +102,5 @@ function getRandomSymbol(){
 
 
 // console.log(getRandomSymbol())
+
+// Hi :}
